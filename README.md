@@ -5,6 +5,7 @@ In an era where financial markets move in microseconds, relying on static spread
 Built with Python, this automated pipeline tracks current performance, calculates risk metrics (VaR, Drawdowns), and simulates thousands of future market scenarios using Monte Carlo methods to identify algorithmic trading opportunities.
 
 🛠️ Tech Stack
+
 Python Libraries: Pandas, NumPy, yFinance, Matplotlib, Seaborn
 
 Data Source: Live Google Sheets API & Yahoo Finance
@@ -12,6 +13,7 @@ Data Source: Live Google Sheets API & Yahoo Finance
 Concepts: Modern Portfolio Theory (MPT), Geometric Brownian Motion (GBM), Technical Analysis (RSI, Bollinger Bands).
 
 📊 Key Features
+
 1. Automated Data Pipeline
 Dynamic ingestion of portfolio holdings from Google Sheets.
 
