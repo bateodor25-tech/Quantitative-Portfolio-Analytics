@@ -1,4 +1,5 @@
 📄 Executive Summary
+
 In an era where financial markets move in microseconds, relying on static spreadsheets is a competitive disadvantage. This project transitions from passive monitoring to active, data-driven portfolio management.
 
 Built with Python, this automated pipeline tracks current performance, calculates risk metrics (VaR, Drawdowns), and simulates thousands of future market scenarios using Monte Carlo methods to identify algorithmic trading opportunities.
